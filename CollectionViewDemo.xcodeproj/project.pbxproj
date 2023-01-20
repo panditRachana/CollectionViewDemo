@@ -7,15 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		803DF87E2959A6FA00F49F25 /* Flower1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 803DF87D2959A6FA00F49F25 /* Flower1.jpeg */; };
+		803DF8812959A71200F49F25 /* Flower3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 803DF87F2959A71200F49F25 /* Flower3.jpeg */; };
+		803DF8822959A71200F49F25 /* Flower2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 803DF8802959A71200F49F25 /* Flower2.jpeg */; };
+		803DF8842959A72C00F49F25 /* flower-4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 803DF8832959A72C00F49F25 /* flower-4.jpeg */; };
+		803DF8862959A73600F49F25 /* flower-5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 803DF8852959A73600F49F25 /* flower-5.jpeg */; };
 		80748C5429126BBB00A3EFF9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80748C5329126BBB00A3EFF9 /* AppDelegate.swift */; };
 		80748C5629126BBB00A3EFF9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80748C5529126BBB00A3EFF9 /* SceneDelegate.swift */; };
 		80748C5829126BBB00A3EFF9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80748C5729126BBB00A3EFF9 /* ViewController.swift */; };
 		80748C5B29126BBB00A3EFF9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80748C5929126BBB00A3EFF9 /* Main.storyboard */; };
 		80748C5D29126BBC00A3EFF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80748C5C29126BBC00A3EFF9 /* Assets.xcassets */; };
 		80748C6029126BBC00A3EFF9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80748C5E29126BBC00A3EFF9 /* LaunchScreen.storyboard */; };
+		80748C922912DB7F00A3EFF9 /* CollectionImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80748C912912DB7F00A3EFF9 /* CollectionImages.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		803DF87D2959A6FA00F49F25 /* Flower1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Flower1.jpeg; sourceTree = "<group>"; };
+		803DF87F2959A71200F49F25 /* Flower3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Flower3.jpeg; sourceTree = "<group>"; };
+		803DF8802959A71200F49F25 /* Flower2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Flower2.jpeg; sourceTree = "<group>"; };
+		803DF8832959A72C00F49F25 /* flower-4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "flower-4.jpeg"; sourceTree = "<group>"; };
+		803DF8852959A73600F49F25 /* flower-5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "flower-5.jpeg"; sourceTree = "<group>"; };
 		80748C5029126BBB00A3EFF9 /* CollectionViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80748C5329126BBB00A3EFF9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		80748C5529126BBB00A3EFF9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +35,7 @@
 		80748C5C29126BBC00A3EFF9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		80748C5F29126BBC00A3EFF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80748C6129126BBC00A3EFF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80748C912912DB7F00A3EFF9 /* CollectionImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionImages.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,8 +71,14 @@
 				80748C5329126BBB00A3EFF9 /* AppDelegate.swift */,
 				80748C5529126BBB00A3EFF9 /* SceneDelegate.swift */,
 				80748C5729126BBB00A3EFF9 /* ViewController.swift */,
+				80748C912912DB7F00A3EFF9 /* CollectionImages.swift */,
 				80748C5929126BBB00A3EFF9 /* Main.storyboard */,
 				80748C5C29126BBC00A3EFF9 /* Assets.xcassets */,
+				803DF8852959A73600F49F25 /* flower-5.jpeg */,
+				803DF8832959A72C00F49F25 /* flower-4.jpeg */,
+				803DF87F2959A71200F49F25 /* Flower3.jpeg */,
+				803DF8802959A71200F49F25 /* Flower2.jpeg */,
+				803DF87D2959A6FA00F49F25 /* Flower1.jpeg */,
 				80748C5E29126BBC00A3EFF9 /* LaunchScreen.storyboard */,
 				80748C6129126BBC00A3EFF9 /* Info.plist */,
 			);
@@ -125,7 +143,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				803DF8812959A71200F49F25 /* Flower3.jpeg in Resources */,
+				803DF87E2959A6FA00F49F25 /* Flower1.jpeg in Resources */,
+				803DF8862959A73600F49F25 /* flower-5.jpeg in Resources */,
+				803DF8842959A72C00F49F25 /* flower-4.jpeg in Resources */,
 				80748C6029126BBC00A3EFF9 /* LaunchScreen.storyboard in Resources */,
+				803DF8822959A71200F49F25 /* Flower2.jpeg in Resources */,
 				80748C5D29126BBC00A3EFF9 /* Assets.xcassets in Resources */,
 				80748C5B29126BBB00A3EFF9 /* Main.storyboard in Resources */,
 			);
@@ -141,6 +164,7 @@
 				80748C5829126BBB00A3EFF9 /* ViewController.swift in Sources */,
 				80748C5429126BBB00A3EFF9 /* AppDelegate.swift in Sources */,
 				80748C5629126BBB00A3EFF9 /* SceneDelegate.swift in Sources */,
+				80748C922912DB7F00A3EFF9 /* CollectionImages.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
